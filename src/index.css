@@ -77,6 +77,9 @@ ul li::before {
   padding: 0.5rem 0 0.5rem 0.5rem;
   margin: 0.25rem 0;
   background-color: #eee;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-top-right-radius: 5px;
 }
 
 .item:first-child {
